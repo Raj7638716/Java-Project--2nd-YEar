@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 import java.util.Calendar;
 
-/* Hi, I am Sehresh Mehboob and you are watching my "Hospital and Health Care Management System" Project in Java / */
 
 class staff
 {
